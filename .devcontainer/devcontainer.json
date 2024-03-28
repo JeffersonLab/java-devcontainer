@@ -1,5 +1,5 @@
 {
   "dockerComposeFile": "dev.yaml",
   "service": "dev",
-  "workspaceFolder": "/workspaces/dev-container"
+  "workspaceFolder": "/workspaces/java-devcontainer"
 }
