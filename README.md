@@ -20,7 +20,7 @@ docker compose up
 ```
 
 ## Install
-Add a [.devcontainer](https://github.com/JeffersonLab/java-devcontainer/tree/main/.devcontainer) directory to your project and launch it with your favorite launcher (GitHub [Codespaces](https://github.com/features/codespaces), IntelliJ [Gateway](https://www.jetbrains.com/remote-development/gateway/), VSCode [devcontainer extension](https://code.visualstudio.com/docs/devcontainers/containers)).
+Add a [.devcontainer](https://github.com/JeffersonLab/java-devcontainer/tree/main/.devcontainer) directory to your project and launch it with your favorite launcher (GitHub [Codespaces](https://github.com/features/codespaces), JetBrains [Gateway](https://www.jetbrains.com/remote-development/gateway/), VSCode [devcontainer extension](https://code.visualstudio.com/docs/devcontainers/containers)).
 
 ## Build / Release
 Make changes to the Dockerfile, test them, then bump the version in the VERSION file and commit it.  The CD GitHub Action should take care of the rest.
