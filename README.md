@@ -1,4 +1,4 @@
-# java devcontainer [![Docker](https://img.shields.io/docker/v/jeffersonlab/java-devcontainer?sort=semver&label=DockerHub)](https://hub.docker.com/r/jeffersonlab/java-devcontainer)
+# java devcontainer [![Docker](https://img.shields.io/docker/v/jeffersonlab/java-devcontainer?sort=semver&label=DockerHub)](https://hub.docker.com/r/jeffersonlab/java-devcontainer) <a href="https://codespaces.new/JeffersonLab/java-devcontainer"><img src="https://github.com/codespaces/badge.svg" height="20"></a>
 A Java [devcontainer](https://containers.dev/).
 
 ## Overview
