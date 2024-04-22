@@ -2,7 +2,7 @@ services:
   #TODO: Your other containers go here!
 
   dev:
-    image: jeffersonlab/java-devcontainer:1.0.2
+    image: jeffersonlab/java-devcontainer:latest
     hostname: dev
     container_name: dev
     volumes:
