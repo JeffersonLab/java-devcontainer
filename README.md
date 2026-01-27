@@ -2,10 +2,10 @@
 A Java [devcontainer](https://containers.dev/).
 
 ## Overview
-The 1.x version series is intended to use the following:
-- Java 17
-- Gradle 7.4
-- Ubuntu "jammy"
+The 2.x version series is intended to use the following:
+- Java 21
+- Gradle 9.3
+- Ubuntu "noble"
 - [Docker outside of Docker](https://github.com/devcontainers/features/tree/main/src/docker-outside-of-docker) (sibling container).   Use a bind mount of the form `/var/run/docker.sock:/var/run/docker.sock`. We don't use [Docker in  Docker](https://github.com/devcontainers/features/tree/main/src/docker-in-docker), because it appears to be the [less good option](https://jpetazzo.github.io/2015/09/03/do-not-use-docker-in-docker-for-ci/).
 
 ## Quick Start with Compose
