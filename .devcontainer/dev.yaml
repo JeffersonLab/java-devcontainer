@@ -7,3 +7,6 @@ services:
     container_name: dev
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
+    # For other containers to start under JetBrains IDEs (and possibly other devcontainer launchers)
+    # depends_on:
+    #   - other-container
